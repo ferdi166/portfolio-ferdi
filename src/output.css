@@ -604,8 +604,8 @@ video {
   position: relative;
 }
 
-.bottom-0 {
-  bottom: 0px;
+.-bottom-14 {
+  bottom: -3.5rem;
 }
 
 .bottom-4 {
@@ -783,8 +783,8 @@ video {
   max-width: 100px;
 }
 
-.max-w-\[140px\] {
-  max-width: 140px;
+.max-w-\[102px\] {
+  max-width: 102px;
 }
 
 .max-w-\[250px\] {
@@ -1350,6 +1350,10 @@ body {
 }
 
 @media (min-width: 768px) {
+  .md\:bottom-0 {
+    bottom: 0px;
+  }
+
   .md\:w-1\/2 {
     width: 50%;
   }
