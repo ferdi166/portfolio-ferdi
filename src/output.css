@@ -779,12 +779,8 @@ video {
   width: 100%;
 }
 
-.max-w-\[100px\] {
-  max-width: 100px;
-}
-
-.max-w-\[102px\] {
-  max-width: 102px;
+.max-w-\[120px\] {
+  max-width: 120px;
 }
 
 .max-w-\[250px\] {
@@ -801,6 +797,14 @@ video {
 
 .max-w-xl {
   max-width: 36rem;
+}
+
+.max-w-\[100px\] {
+  max-width: 100px;
+}
+
+.max-w-\[102px\] {
+  max-width: 102px;
 }
 
 .origin-bottom-left {
